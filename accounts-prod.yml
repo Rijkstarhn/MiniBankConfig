@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Test auto-refresh v3. "
   contactDetails:
-    name: "Rexxay - Product Owner"
+    name: "Aish Warya - Product Owner"
     email: "aishwarya@eazybank.com"
   onCallSupport:
     - (453) 392-4829
